@@ -31,7 +31,7 @@ python excel_to_csv.py <excel_file> [--output_dir <output_directory>]
 - `<output_directory>` (optional): Output directory for the CSV files. If not provided, a directory with the same name as the Excel file (without the extension) will be created in the current working directory.
 
 Example:
-python excel_to_csv.py path/to/your/excel_file.xlsx --output_dir path/to/output/directory
+```python excel_to_csv.py path/to/your/excel_file.xlsx --output_dir path/to/output/directory```
 
 ## Output
 
